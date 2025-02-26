@@ -1,0 +1,27 @@
+#chp4 {
+    height:200px;
+    width:200px;
+    background-color: #1eff00bc;
+}
+
+#opacity {
+    height:200px;
+    width:200px;
+    background-color: orange;
+    opacity:0.7;
+}
+
+#transition {
+    height:200px;
+    width: 200px;
+    background-color: blue;
+    margin: auto;
+    margin-top: 15px;
+    transition: 1s;
+}
+
+#transition:hover {
+    background-color: black;
+    border-radius: 50%;
+}
+
