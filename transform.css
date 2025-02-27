@@ -45,3 +45,15 @@ div:nth-of-type(3n) {
     border: none;
     box-shadow: 2px 2px 8px black;
 }
+
+#image {
+    width:400px;
+    height:200px;
+    background-color: #7aa874;
+    margin:10px auto;
+    border: none;
+    background-image: url(Haseeb\ pic.jpg);
+    background-size: contain;
+    color:white;
+    text-align:left;
+}
