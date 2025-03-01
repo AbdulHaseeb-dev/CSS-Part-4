@@ -6,8 +6,8 @@
 
 #box1:hover {
     width: 600px;
-    transition: 2s;
-    transition-delay: 0.5s; 
+    transition:width 2s ease-in 0.5s;
+    /* transition-delay: 0.5s;  */
 }
 
 #box2 {
